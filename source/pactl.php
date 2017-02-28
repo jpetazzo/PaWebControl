@@ -177,7 +177,7 @@
 					"Sink:",
 					"Mute",
 					"Volume:",
-					"application.name"
+					"media.name"
 				);
 			$contained = false;
 			foreach($elements as &$element)
